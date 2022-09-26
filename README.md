@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript Advanced**
 
-- 💬 Ask me about **React Native, React and Java**
+- 💬 Ask me about **React Native, React, Java, Golang and TypeScript**
 
 - 📫 How to reach me **adityarajsingh64@gmail.com**
 
